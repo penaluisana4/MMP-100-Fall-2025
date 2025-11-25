@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+body{  
+color: hotpink;
+color:#FF69B4;
+
+background-color: black;
+
+font-size: 24px;
+}
+
+a {
+    colo: gold;	
+    font-family: "Honk", system-ui;
+}	
+
+h1{
+    font-family: Andale Mono, monospace;
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 22px; 
+    padding: .5em 1em;
+    text-align: center;
+    /*margin: 1em;*/
+}
+
+p {
+    font-family: palatino, serif;
+    font-size: 1.2em;
+    /*font-size: 12px;*/	
+}
+
+div#container{
+    margin: 0 auto;
+    max-width: 800px;
+}
